@@ -32,7 +32,7 @@ function switchTab(tab) {
   allContainer.classList.add("hidden");
   interviewContainer.classList.add("hidden");
   rejectedContainer.classList.add("hidden");
-  emptyState.classList.add("hidden");
+  // emptyState.classList.add("hidden");
 
 
   // show selected section empty state
